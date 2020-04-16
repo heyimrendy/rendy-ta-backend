@@ -1093,3 +1093,6 @@ malam_NN Natal_NNP saya_PRP baru_JJ saja_RB menyelesaikan_VBT ujian_VBT merasa_V
 Orang_NN tua_JJ saya_PRP keluar_VBI saya_PRP adalah_VBT anak_NN tertua_NN rumah_NN ._. tengah_NN malam_NN seorang_NN pria_NN asing_JJ menelepon_VBT kami_PRP berbicara_VBI saya_PRP bahasa_NN kasar_JJ ._. Aku_NN menutup_VBT telepon_NN mendengar_VBT seseorang_RB berjalan_VBI luar_JJ pintu_NN kami_PRP ._.
 astagfirallah_NN hal_NN azim_NN ya_UH allah_NN ya_UH robbal_NN alaminn_NN
 mengerikan_VBT
+ingin_VBT banget_NN apa_WP benar_JJ ya_UH punya_VBT sakit_JJ asam_NN urat_NN tidak_NEG makan_VBT durian_NN saya_PRP maniak_NN durian_NN
+kenapa_NN baru_JJ sekarang_NN kenapa_NN tidak_NEG dulu_RB ada_VBI aneh_JJ
+mengerikan_VBT membakar_VBT orang_NN tak_NEG bersalah_VBI

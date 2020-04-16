@@ -1093,3 +1093,11 @@ Di/IN hostel/NN ,/, teman/NN sekamar/NN saya/PRP adalah/VBT orang/NN yang/SC san
 Teman/NN sekamar/NN saya/PRP suka/VBI mendengarkan/VBT beberapa/CDI lagu/RB yang/SC tidak/NEG berarti/VBI yang/SC melodi/NN tapi/CC tidak/NEG memiliki/VBT konten/NN ./.	Kami/PRP tinggal/VBI bersama/JJ sehingga/SC saat/SC dia/PRP memainkan/VBT alat/NN perekam/NN aku/NN terpaksa/VBI mendengarkan/VBT mereka/PRP ./.	Saya/PRP tidak/NEG dapat/MD mengatakan/VBI kepadanya/NN bahwa/SC saya/PRP tidak/NEG suka/VBI mendengarkan/VBT lagu-lagunya/RB ,/, karena/CC saya/PRP tidak/NEG berhak/VBI mengganggu/VBT kebebasan/NN orang/NN lain/JJ ./.	Jadi/JJ saya/PRP akan/MD mencari/VBT dalih/NN untuk/IN meninggalkan/VBT ruangan/NN dan/CC pergi/VBI ke/IN tempat/NN lain/JJ ./.
 Saya/PRP berada/VBI di/IN rumah/NN dan/CC saya/PRP mendengar/VBT suara/NN keras/JJ meludah/VBT keluar/VBI dari/IN pintu/NN ./.	Kupikir/NN salah/JJ satu/CDP anggota/NN keluargaku/NN akan/MD menginjak/VBT ludah/NN dan/CC membawa/VBT kuman/NN ke/IN rumah/NN ./.
 Anak/NN laki-laki/NN di/IN tanah/NN
+partai_NN kok_NN bantu_VBI anggota_NN tersangkut_VBT kasus_NN korupsi_NN bagaimana_WP masih_RB pantaskah_NN partai_NN dipilih_VBT rakyat_NN	j
+tidak_NEG tau_VBT malu_NN memalukan_JJ
+tidak_NEG tau_VBT malu_NN memalukan_JJ
+tidak_NEG tau_VBT malu_NN memalukan_JJ
+tidak_NEG tau_VBT malu_NN memalukan_JJ
+tidak_NEG tau_VBT malu_NN memalukan_JJ
+tidak_NEG tau_VBT malu_NN memalukan_JJ
+tidak_NEG tau_VBT malu_NN memalukan_JJ
